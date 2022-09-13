@@ -1,0 +1,59 @@
+body{
+  background-image:url(sfondo.jpg);
+  background-size: cover;
+}
+
+.container1{
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px;
+  border-radius: 2%;
+  background-color: #0000006e;
+
+}
+/* Header */
+.logo{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px
+}
+h1{
+  text-align: center;
+  color: #13df13;
+
+}
+/* Prenotazioni */
+.prenotazioni{
+  text-align: center;
+  background-color:#13df13;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 10px
+}
+
+/* Contenuto */
+main{
+  width: 600px;
+  padding-left: 200px
+}
+.bianco{
+  color: white
+}
+.carica1{
+  background-color: orange;
+  width: 40%
+}
+
+.carica2{
+  background-color:#13df13;
+  width: 80%
+}
+
+.carica3{
+  background-color: red;
+  width: 10%
+}
